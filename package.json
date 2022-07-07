@@ -1,0 +1,14 @@
+{
+  "name": "twitter-nft-sales-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "opensea-js": "^4.0.4"
+  }
+}
